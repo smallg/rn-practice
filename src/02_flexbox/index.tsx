@@ -65,6 +65,7 @@ const styles = StyleSheet.create({
     backgroundColor: 'green',
     padding: 4,
     textAlign: 'center',
+    flex: 1,
   },
   flexColumn: {
     flexDirection: 'column',
@@ -74,9 +75,13 @@ const styles = StyleSheet.create({
   },
   flexRow: {
     flexDirection: 'row',
+    justifyContent: 'space-around',
+    alignItems: 'center',
   },
   flexRowReverse: {
     flexDirection: 'row-reverse',
+    justifyContent: 'space-between',
+    alignItems: 'flex-end',
   },
 });
 
