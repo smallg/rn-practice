@@ -7,7 +7,8 @@ import React, {Component} from 'react';
 // import Index from './src/07_image';
 // import Index from './src/08_textinput';
 // import Index from './src/09_touchable';
-import Index from './src/10_scroll_view';
+// import Index from './src/10_scroll_view';
+import Index from './src/11_section_list';
 
 export default class App extends Component {
   render() {
