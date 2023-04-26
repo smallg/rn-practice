@@ -8,7 +8,9 @@ import React, {Component} from 'react';
 // import Index from './src/08_textinput';
 // import Index from './src/09_touchable';
 // import Index from './src/10_scroll_view';
-import Index from './src/11_section_list';
+// import Index from './src/11_section_list';
+// import Index from './src/12_flat_list';
+import Index from './src/13_animated';
 
 export default class App extends Component {
   render() {
